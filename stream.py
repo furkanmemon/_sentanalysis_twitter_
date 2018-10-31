@@ -7,10 +7,10 @@ import sentiment_mod as s
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="NhFVzmiUPRI8lN93IYGwd1Izp"
-csecret="sMBQkKdYYBRAoTJ6OeNG4f0GEcKdCr6sfo3GspXjdlTX8j5Nw4"
-atoken="215169252-PeG79rEKsYvcEvljvVGlwcIvaOgHQlDA2N6hvc12"
-asecret="GTgxYfscksPIXwGaveqqKqCdVhTg4SFAf98aYYQaVuIZp"
+ckey="Enter your consumer key here"
+csecret="enter your consumer secret here"
+atoken="enter your access token here"
+asecret="enter your access secret here"
 
 class listener(StreamListener):
 
